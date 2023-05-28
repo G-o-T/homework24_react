@@ -1,0 +1,11 @@
+.App {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.rate-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
